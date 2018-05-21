@@ -1,0 +1,2 @@
+# SyndikatTEAM
+Generic repository
